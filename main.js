@@ -1,1 +1,1 @@
-// Entry point for your React app (placeholder)
+console.log('Welcome to King Cole's universe.');

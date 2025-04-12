@@ -1,2 +1,2 @@
-# King Cole Website
-Official cosmic site for King Cole – music, comedy, game & more.
+# King Cole Cosmic Site
+This is the full cosmic website for King Cole, built with music, comedy, UFOs, NFTs, Cosmo, and a custom retro game.
